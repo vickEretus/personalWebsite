@@ -12,77 +12,66 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Education</template>
+    York College of Pennsylvania, York PA			                 Expected graduation: May 2024
+    Bachelor of Science in Computer Science						
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>Tooling</template>
+    <template #heading>Skills</template>
 
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
-      >Cypress Component Testing</a
-    >.
-
-    <br />
-
-    More instructions are available in <code>README.md</code>.
+    SQL, Python, Java, C/C++, C#, HTML/CSS, Microsoft Package, Oracle VM VirtualBox, 
+    Linux (Ubuntu), Draw.io, Figma, GitHub, Visual Studio Family
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Ecosystem</template>
+    <template #heading>Related Experience</template>
+CS Capstone I – RevMetrix, Backend Team                                                 	           August 2023 – Current
+•	Architect the foundation for our new capstone project
+•	Conduct database and ORM prototypes to identify project requirements
+•	Produced system architecture diagrams for effective communication with Draw.io & Figma
+•	Strategically planning the seamless integration of new teams for efficient collaboration
+•	Contributed to project documentation through a HUGO website, ensuring accuracy and accessibility
+Advanced Graphics 
+•	Implemented a DirectX11 individual self-study project in using the DirectXTK library. 
+Software Engineering and Design						      January 2023 - May 2023
+•	Enhanced understanding of traditional web application development by successfully completing a Java web application using legacy code.	                      
+Individual Project – Self moving Camera				                  January 2023 - May 2023
+•	Developed a face-tracking system using an Arduino UNO, servos, and a USB camera.
+•	Assembled wires to power the servos and the Arduino UNO
+•	Enhanced user experience by designing and programming a Python GUI with a camera preview.
 
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <CommunityIcon />
     </template>
-    <template #heading>Community</template>
+    <template #heading>Work Experience</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    Help Desk Technician, York College of Pennsylvania Library Technology Services                                 Feb 2022 - Current
+•	Provided technical support to customers in person, over the phone, and online, resolving technology and library-related problems to ensure customer satisfaction
+•	Collaborated with other Help Desk team members and technology specialists to resolve complex issues and provide effective solutions
+•	Delivered prompt and courteous customer service, listening to customer concerns and offering appropriate solutions in a friendly and professional manner
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Leadership</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    Treasurer of IEEE								         August 2023 – Current
+•	Collaborated with other executive board members to strategize and execute fundraising initiatives.
+•	Generated innovative event ideas and organized their execution, enhancing IEEE chapter engagement and brand with successful events
+
+
   </WelcomeItem>
 </template>

@@ -8,9 +8,13 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next?
+      <a href="https://github.com/vickEretus" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/victor-pineda-a287a81a3" target="_blank" rel="noopener">Linkedin</a>
+Computer science student seeking a spring or summer position internship, Experienced in Several different coding languages. Interested in different fields of the computer science, Available February-August 2024
+
+
+
+
     </h3>
   </div>
 </template>
